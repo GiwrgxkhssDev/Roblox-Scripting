@@ -1,4 +1,4 @@
--- 
+-- Shop Script Made By GiwrgxkhssDev ! 
 
 local Players = game:GetService("Players")
 
