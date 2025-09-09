@@ -1,3 +1,5 @@
+-- Data Save Script Made By GiwrgxkhssDev ! Please Dont Delete Anything From Here!
+
 local DataStoreService = game:GetService("DataStoreService")
 local Players = game:GetService("Players")
 local playerDataStore = DataStoreService:GetDataStore("PlayerDataStore")
