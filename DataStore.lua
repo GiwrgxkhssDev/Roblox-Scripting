@@ -1,4 +1,4 @@
--- Data Save Script Made By GiwrgxkhssDev ! Please Dont Delete Anything From Here!
+-- Data Save Script Made By GiwrgxkhssDev ! 
 
 local DataStoreService = game:GetService("DataStoreService")
 local Players = game:GetService("Players")
